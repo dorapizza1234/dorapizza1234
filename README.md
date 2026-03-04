@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=dorapizza1234&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=60&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20%F0%9F%91%8B&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=안녕하세요%2C%20개발자%20dorapizza1234입니다!&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD4F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=안녕하세요+개발자+dorapizza1234+입니다+👋;Full-Stack+Developer+%7C+Java+%7C+Vue.js+%7C+Python" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6AD4F7&center=true&vCenter=true&width=620&height=60&lines=안녕하세요!+저는+개발자입니다+👨‍💻;Java+%7C+Spring+Boot+%7C+Vue.js+%7C+Python;풀스택+개발을+공부하고+있습니다+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -81,8 +79,7 @@ public class Developer {
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |---------|------|-----------|------|
-| **LP_SemiProject** | 3팀 LP 웹사이트 — 랜딩 페이지 형식의 팀 소개 사이트 | Java · JSP · CSS · Oracle | [🔗 Repo](https://github.com/dorapizza1234/LP_SemiProject) |
-| **대박나라** | 자영업자 매출 관리 대시보드 | Vue 2 · MongoDB · Firebase · Google Cloud | 🔒 Private |
+| **LP_SemiProject** | 쇼핑몰 웹 애플리케이션 (MVC 패턴) | Java · JSP · Oracle · Tomcat | [🔗 Repo](https://github.com/dorapizza1234/LP_SemiProject) |
 
 ---
 
@@ -97,7 +94,7 @@ public class Developer {
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdorapizza1234&count_bg=%236AD4F7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" />
+  <img src="https://komarev.com/ghpvc/?username=dorapizza1234&color=6AD4F7&style=for-the-badge&label=VISITORS" />
 </p>
 
 <p align="center">
