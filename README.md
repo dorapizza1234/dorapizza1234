@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6AD4F7&center=true&vCenter=true&width=620&height=60&lines=안녕하세요!+저는+개발자입니다+👨‍💻;Java+%7C+Spring+Boot+%7C+Vue.js+%7C+Python;풀스택+개발을+공부하고+있습니다+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6AD4F7&center=true&vCenter=true&width=620&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%A0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Vue.js+%7C+Python;%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ public class Developer {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorapizza1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorapizza1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
