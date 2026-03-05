@@ -1,7 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6AD4F7&center=true&vCenter=true&width=720&height=60&lines=왜+이렇게+동작하는가를+끝까지+고민합니다.;구조와+데이터+흐름을+이해하는+개발자+양소라입니다.;Java+%7C+Spring+%7C+JSP+%7C+Oracle" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=양소라의%20Portfolio&fontSize=40" />
 
+  ### 🔍 구조와 데이터 흐름을 이해하는 개발자
+  **"왜 이렇게 동작하는가를 끝까지 고민합니다."**
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </p>
+</div>
 ---
 
 ## 🧠 About Me
