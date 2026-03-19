@@ -1,5 +1,9 @@
 <div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=line&height=150&section=header)
+
+
+
 ### 🔍 구조와 데이터 흐름을 이해하는 백엔드 개발자
 **"왜 이렇게 동작하는가를 끝까지 고민합니다."**
 
