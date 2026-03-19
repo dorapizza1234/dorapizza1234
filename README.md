@@ -42,7 +42,7 @@
 | 프로젝트 | 설명 | 핵심 고민 | 링크 |
 |----------|------|------------|------|
 | **LP_SemiProject** | MVC 기반 쇼핑몰 웹 애플리케이션 | 세션 기반 인증 구조 설계, CRUD 데이터 정책 정리, 관리자 페이지 기능 구현 | [🔗 Repo](https://github.com/dorapizza1234/LP_SemiProject) |
-| **final-project-auth-admin** 🔒 | 중고거래 플랫폼 팀 프로젝트 — 담당 파트 | Spring Security + JJWT 인증 설계, 관리자 대시보드, 광고 시스템, 실시간 알림함 구현 | [🔗 Repo](https://github.com/dorapizza1234/final-project-auth-admin) |
+| **final-project-auth-admin**  | 중고거래 플랫폼 팀 프로젝트 — 담당 파트 | Spring Security + JJWT 인증 설계, 관리자 대시보드, 광고 시스템, 실시간 알림함 구현 | [🔗 Repo](https://github.com/dorapizza1234/final-project-auth-admin) |
 | **board_service** | 중고거래 플랫폼 MSA — 게시판 마이크로서비스 | API Gateway 기반 라우팅, 공지사항·FAQ·1:1 문의 서비스 분리 설계 | [🔗 Repo](https://github.com/dorapizza1234/board_service) |
 
 > 단순 기능 구현이 아닌, 인증 흐름과 데이터 처리 구조를 설계하는 데 집중했습니다.
