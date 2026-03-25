@@ -31,8 +31,8 @@
 ## 🧠 About Me
 - 단순한 기능 구현에 그치지 않고 **구조와 데이터 흐름을 이해하려 노력합니다.**
 - 문제를 임시로 해결하기보다 **설계 관점에서 원인을 분석합니다.**
-- 세션 기반 인증, CRUD 설계 과정에서  
-  “왜 이렇게 동작하는가?”를 끝까지 고민합니다.
+- 세션 기반 인증, CRUD 설계 과정에서
+  "왜 이렇게 동작하는가?"를 끝까지 고민합니다.
 - 복잡한 절차와 이해관계를 **프로세스 단위로 구조화하는 사고방식**을 지향합니다.
 
 ---
@@ -42,7 +42,7 @@
 | 프로젝트 | 설명 | 핵심 고민 | 링크 |
 |----------|------|------------|------|
 | **LP_SemiProject** | MVC 기반 쇼핑몰 웹 애플리케이션 | 세션 기반 인증 구조 설계, CRUD 데이터 정책 정리, 관리자 페이지 기능 구현 | [🔗 Repo](https://github.com/dorapizza1234/LP_SemiProject) |
-| **final-project-auth-admin**  | 중고거래 플랫폼 팀 프로젝트 — 담당 파트 | Spring Security + JJWT 인증 설계, 관리자 대시보드, 광고 시스템, 실시간 알림함 구현 | [🔗 Repo](https://github.com/dorapizza1234/final-project-auth-admin) |
+| **FinalProject_3** | 중고거래 플랫폼 팀 프로젝트 | Spring Security + JJWT 인증 설계, 관리자 대시보드, 광고 시스템, 실시간 알림함 구현 | [🔗 Repo](https://github.com/dorapizza1234/FinalProject_3) |
 | **board_service** | 중고거래 플랫폼 MSA — 게시판 마이크로서비스 | API Gateway 기반 라우팅, 공지사항·FAQ·1:1 문의 서비스 분리 설계 | [🔗 Repo](https://github.com/dorapizza1234/board_service) |
 
 > 단순 기능 구현이 아닌, 인증 흐름과 데이터 처리 구조를 설계하는 데 집중했습니다.
